@@ -33,6 +33,28 @@ public class Main {
         System.out.println(frog);
         frog = frog + 4;
         System.out.println(frog);
+        var boxerone = 78.2;
+        var boxertwo = 82.7;
+        var Summaponduspugnatoribus = boxerone + boxertwo;
+        System.out.println("Общий вес двух бойцов " + Summaponduspugnatoribus + " кг");
+        var differentiaponduspugnatores = boxertwo - boxerone;
+        System.out.println(" Боец два вешает больше бойца один больше на " + differentiaponduspugnatores + " кг");
+        var differentiaponduspugnantiumestduo = boxertwo - boxerone ;
+        System.out.println(" Боец оди вешает меньше бойца два больше на " + differentiaponduspugnantiumestduo + " кг");
+        var horasperdiem = 640;
+        var molestiehorasperdiem = 8;
+        var numeruselit = horasperdiem / molestiehorasperdiem;
+        System.out.println("Всего работников в компании " + numeruselit + " человек");
+        var numeruselittwo = numeruselit + 94;
+        System.out.println("Всего работников в компании " + numeruselittwo + " человек");
+        var molestiehorasperdiemtwo = (int) horasperdiem / (int) numeruselittwo;
+        System.out.println("Если в компании работает " + numeruselittwo + " человек, то всего " + molestiehorasperdiemtwo + " часов работы может быть поделено между сотрудниками");
+
+
+
+
+
+
 
 
 
