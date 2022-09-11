@@ -47,7 +47,7 @@ public class Main {
         System.out.println("Всего работников в компании " + numeruselit + " человек");
         var numeruselittwo = numeruselit + 94;
         System.out.println("Всего работников в компании " + numeruselittwo + " человек");
-        var molestiehorasperdiemtwo = (int) horasperdiem / (int) numeruselittwo;
+        var molestiehorasperdiemtwo =  horasperdiem /  numeruselittwo;
         System.out.println("Если в компании работает " + numeruselittwo + " человек, то всего " + molestiehorasperdiemtwo + " часов работы может быть поделено между сотрудниками");
 
 
